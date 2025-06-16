@@ -1,6 +1,6 @@
 # 📄 TAPOJIT BHATTACHARJEE – Resume
 
-Welcome to my personal resume repository! This repository hosts the most up-to-date version of my *Curriculum Vitae (CV), tailored for roles in *Data Science, Machine Learning, and Big Data Analytics*.
+Welcome to my personal resume repository! This repository hosts the most up-to-date version of my *Curriculum Vitae (CV)*, tailored for roles in *Data Science, Machine Learning, and Big Data Analytics*.
 
 ---
 
