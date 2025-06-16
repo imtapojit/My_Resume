@@ -7,7 +7,7 @@ Welcome to my personal resume repository! This repository hosts the most up-to-d
 ## 🔍 What's Inside
 - Tapojit_Bhattacharjee_Resume.pdf – A clean, ATS-friendly, and professionally formatted resume.
 - Highlights of:
-  - ✅ Technical Skills (Python, SQL, R, ML/DL, etc.)
+  - ✅ Technical Skills (Python, SQL, R, ML,DL,NLP etc.)
   - 📊 Academic Background (B.Sc. Statistics, M.Sc. Big Data Analytics)
   - 🧠 Projects (Deep Learning, NLP, Predictive Modeling, etc.)
   - 🏆 Achievements & Certifications
